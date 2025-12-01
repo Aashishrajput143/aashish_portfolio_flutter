@@ -711,7 +711,7 @@ export default function Portfolio() {
           <h1 className="text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-blue-500 mb-2">
             Aashish Chauhan
           </h1>
-          <p className="text-xl text-slate-400 font-light">Senior Flutter Developer</p>
+          <p className="text-xl text-slate-400 font-light">Flutter Developer</p>
         </div>
         
         <div className="flex gap-2 flex-wrap">
